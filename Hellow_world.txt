@@ -1,5 +1,6 @@
-Print("Hello world!")
-Print("Hello everybody!")
-Print("Hello!")
-Print("Hello my dear friend!")
-Print("Glad to see you")
+Print("Hello world!");
+Print("Hello everybody!");
+Print("Hello!");
+Print("Hello my dear friend!");
+Print("Glad to see you");
+
